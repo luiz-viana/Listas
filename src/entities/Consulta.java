@@ -14,7 +14,6 @@ public class Consulta {
 			list.add("Bob");
 			list.add("Alex");
 			list.add("Anna");
-			list.add("Xanaina");
 			list.add(2, "Marco");
 			
 			System.out.println(list.size());
